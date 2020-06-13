@@ -1,0 +1,39 @@
+.cours{
+    width: 480px;
+    height:200x;
+    background-color: black;
+    opacity: 0.6;
+    color: #fff;
+    top: 20%;
+    left: 45%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: none;
+    padding: 50px 30px;
+    border-radius: 20px;
+    transform:skewY(0deg)  ;
+    
+   
+}
+.cours input  {
+    
+    
+    font-size: 20px;
+    line-height: 1.43;
+    color:  #fff;
+    font-family:Helvetica;
+    height: 42px;
+    width: 75%;
+    padding-bottom: 10px;
+}
+.submit{
+    padding-left: 80px;
+}
+.cours p{
+text-align: left;
+padding-bottom: 0px;
+}
+.cours h1{
+    padding-top: 0px;
+    font-family: oblique;
+}

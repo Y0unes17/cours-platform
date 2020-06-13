@@ -1,0 +1,49 @@
+.lf {
+    width: 85%;
+    height:180x;
+    background-color: black;
+    opacity: 0.6;
+    color: #fff;
+    top: 20%;
+    left: 3%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: none;
+    padding: 50px 30px;
+    border-radius: 20px;
+    transform:skewY(0deg)  ;
+      
+}
+.rh {
+    width: 800px;
+    height:180x;
+    
+    opacity: 0.6;
+    color: #fff;
+    top: 20%;
+    left: 45%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: none;
+    padding: 50px 30px;
+    border-radius: 20px;
+    transform:skewY(0deg)  ;
+      
+}
+.test p{
+    text-align: left;
+    font-family: Helvetica;
+    text-shadow: 0 2px 4px rgba(41,48,59,.55);
+    font-size: 20px;
+    color: aliceblue;
+}
+.test input  {
+    
+
+    font-size: 20px;
+    line-height: 1.43;
+    color:aliceblue;
+    font-family:Helvetica;
+    height:30px;
+    width: 10%;
+}

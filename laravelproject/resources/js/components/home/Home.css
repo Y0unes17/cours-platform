@@ -1,0 +1,104 @@
+.home h1{
+   
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    text-shadow: 0 2px 4px rgba(41,48,59,.55);
+    font-size: 50px;
+    color: aliceblue;
+
+    
+}
+.home {
+      position: absolute;
+      left: 50px;
+      top: 200px;
+}
+.home p {
+    
+
+      text-align: left;
+      font-family: Helvetica;
+      text-shadow: 0 2px 4px rgba(41,48,59,.55);
+      font-size: 20px;
+      color: aliceblue;
+     
+      
+}
+
+
+.home input  {
+    
+
+    font-size: 20px;
+    line-height: 1.43;
+    color: #29303b;
+    font-family:Helvetica;
+    height: 42px;
+    width: 75%;
+}
+
+
+.box{
+    width: 480px;
+    height: 420px;
+    
+    color: #fff;
+    top: 20%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: none;
+    padding: 50px 30px;
+    border-radius: 20px;
+    transform:skewY(0deg)  ;
+    
+   
+}
+.box li>a{
+    font: 1em helvetica aril sans-serif;
+    display: inline-block ;
+    width: 70%;
+    text-align: left;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    transition: 0.8s all;
+    color: rgb(163, 164, 172);
+    font-size: 15px;;
+    font-family: cursive;
+}
+.box a:hover{
+    color: rgb(234, 238, 0);
+    background-color: rgb(124, 31, 245);
+    transition: 0.8s all;
+
+}
+.box p {
+    
+
+        text-align: left;
+        font-family: Helvetica;
+        text-shadow: 0 2px 4px rgba(41,48,59,.55);
+        font-size: 18px;
+        color: aliceblue;
+       
+        
+  }
+.box h3{
+   
+    text-align: center;
+    font-family: Helvetica;
+    font-style: normal;
+    text-shadow: 0 2px 4px rgba(41,48,59,.55);
+    font-size: 20px;
+    color: rgb(228, 161, 36);
+   padding-bottom: 15px;
+    
+}
+
+.box li{
+   
+    list-style: none;
+    
+}

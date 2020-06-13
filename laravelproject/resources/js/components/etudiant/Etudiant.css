@@ -1,0 +1,36 @@
+.etud{
+    width: 800px;
+    height:180x;
+    background-color: black;
+    opacity: 0.6;
+    color: #fff;
+    top: 20%;
+    left: 20%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: none;
+    padding: 50px 30px;
+    border-radius: 20px;
+    transform:skewY(0deg)  ;
+    
+   
+}
+.etud a:hover{
+    color: rgb(234, 238, 0);
+    
+   
+    opacity: 0.4;
+    transition: 0.8s all;
+    
+}
+.etud h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Helvetica;
+    font-style: normal;
+    text-shadow: 0 2px 4px rgba(41,48,59,.55);
+    font-size: 30px;
+    color: aliceblue;
+
+    
+}
